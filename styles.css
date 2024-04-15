@@ -9,6 +9,11 @@ h1{
 }
 
 p{
-    font-size: 30px;
+    font-size: 12px;
     text-align: justify;
+}
+
+.infobae{
+    font-size: 72px;
+    color: orange;
 }
