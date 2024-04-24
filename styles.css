@@ -18,6 +18,11 @@ img {
     height: auto;
 }
 
+label{
+    font-size: 0.8em;
+    color: #3b3b3b;
+}
+
 p{
     text-align: justify;
 }
